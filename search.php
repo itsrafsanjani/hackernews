@@ -9,7 +9,7 @@ $hackernewss = json_decode($news_url, true);
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Parallax Template - Materialize</title>
+    <title>Hacker News - Tech Related Latest News</title>
 
     <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
