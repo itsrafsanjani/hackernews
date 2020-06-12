@@ -1,0 +1,20 @@
+import requests
+from bs4 import BeautifulSoup
+import pprint
+
+res = requests.get('https://news.ycombinator.com/news')
+soup = BeautifulSoup(res.text, 'html.parser')
+
+links = soup.select('.storylink')
+votes = soup.select('.score')
+
+def create_custom_hn(links, votes):
+    hn = []
+    for idx, item in enumerate(links):
+        title = item.getText()
+        href = item.get('href', None)
+        points =int(votes[idx].getText().replace(' points', ''))
+        hn.append({'title': title, 'link': href, 'votes': points})
+    return hn
+
+pprint.pprint(create_custom_hn(links, votes))

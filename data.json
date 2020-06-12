@@ -1,0 +1,132 @@
+[
+    {
+        "title": "New slats make the Golden Gate Bridge sound like a David Lynch movie",
+        "link": "https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now",
+        "votes": 931
+    },
+    {
+        "title": "Cloudflare TV",
+        "link": "https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/",
+        "votes": 616
+    },
+    {
+        "title": "Choose Boring Technology (2015)",
+        "link": "https://mcfunley.com/choose-boring-technology",
+        "votes": 439
+    },
+    {
+        "title": "Ideas That Changed My Life",
+        "link": "https://www.perell.com/blog/50-ideas-that-changed-my-life",
+        "votes": 374
+    },
+    {
+        "title": "C implementation of Tic-Tac-Toe in a single call to printf",
+        "link": "https://github.com/carlini/printf-tac-toe",
+        "votes": 362
+    },
+    {
+        "title": "Interactive Map of Linux Kernel",
+        "link": "https://makelinux.github.io/kernel/map/",
+        "votes": 333
+    },
+    {
+        "title": "VS Code without Microsoft branding/telemetry/licensing",
+        "link": "https://github.com/VSCodium/vscodium",
+        "votes": 315
+    },
+    {
+        "title": "$1M treasure in Rocky Mountains has been found, says Forrest Fenn",
+        "link": "https://www.theguardian.com/us-news/2020/jun/07/forrest-fenn-treasure-rocky-mountains-found",
+        "votes": 289
+    },
+    {
+        "title": "NoDesign.dev Tools and resources for non artistic developers",
+        "link": "https://nodesign.dev/",
+        "votes": 264
+    },
+    {
+        "title": "Collapse OS Why Forth?",
+        "link": "https://collapseos.org/forth.html",
+        "votes": 262
+    },
+    {
+        "title": "I got a Ph.D. at age 66 (2018)",
+        "link": "https://www.sciencemag.org/careers/2018/07/its-never-too-late-stretch-your-wings-why-i-got-phd-age-66",
+        "votes": 257
+    },
+    {
+        "title": "Largest Known Maya Structure Found",
+        "link": "https://www.insidescience.org/news/largest-known-maya-structure-found-more-4000-feet-long-and-nearly-3000-years-old",
+        "votes": 257
+    },
+    {
+        "title": "Discret 11, the French TV encryption of the 80s",
+        "link": "https://fabiensanglard.net/discret11/index.html",
+        "votes": 242
+    },
+    {
+        "title": "Python Wheels Crosses 90%",
+        "link": "https://pythonwheels.com/",
+        "votes": 194
+    },
+    {
+        "title": "Reminder of Complexity",
+        "link": "https://www.johndcook.com/blog/2020/01/16/memento-complexitatis/",
+        "votes": 188
+    },
+    {
+        "title": "Show HN: Puree Password-based Uniform-Random-Equivalent Encryption",
+        "link": "http://puree.cc/",
+        "votes": 183
+    },
+    {
+        "title": "Grid A Lua Game Engine",
+        "link": "https://www.planimeter.org/grid-sdk/",
+        "votes": 169
+    },
+    {
+        "title": "Show HN: Weylus Use your tablet as graphic tablet/touch screen on Linux",
+        "link": "https://github.com/H-M-H/Weylus",
+        "votes": 166
+    },
+    {
+        "title": "With only free software, a Mali G31 chip can now run GNOME and more",
+        "link": "https://www.collabora.com/news-and-blog/blog/2020/06/05/bifrost-meets-gnome-onward-upward-zero-graphics-blobs/",
+        "votes": 159
+    },
+    {
+        "title": "Tensorflow.js: Machine Learning in JavaScript",
+        "link": "https://www.tensorflow.org/js/",
+        "votes": 153
+    },
+    {
+        "title": "Prologue: Full-Stack Web Framework Written in Nim",
+        "link": "https://github.com/planety/prologue",
+        "votes": 143
+    },
+    {
+        "title": "Show HN: Offset Credit card powered by trust between people",
+        "link": "https://www.offsetcredit.org",
+        "votes": 140
+    },
+    {
+        "title": "The Pain Points of Haskell: A Practical Summary",
+        "link": "https://dixonary.co.uk/blog/haskell/pain",
+        "votes": 136
+    },
+    {
+        "title": "How to Design, Build and Test Small Liquid-Fuel Rocket Engines (1967)",
+        "link": "http://www.risacher.org/rocket/",
+        "votes": 135
+    },
+    {
+        "title": "Manned fighter to face autonomous drone next year",
+        "link": "https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown",
+        "votes": 134
+    },
+    {
+        "title": "Getting Hands-on with io_uring using Go",
+        "link": "https://developers.mattermost.com/blog/hands-on-iouring-go/",
+        "votes": 133
+    }
+]
