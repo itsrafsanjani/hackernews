@@ -44,11 +44,11 @@ $hackernewss = json_decode($news_url, true);
             foreach ($hackernewss as $hackernews){
             ?>
             <div class="col s12">
-                <a href="<?php echo  $hackernews['link']; ?>">
+                <a href="<?php echo  $hackernews['link']; ?>" target="_blank">
                 
                 <div class="card teal">
                     <div class="card-content white-text">
-                    <span class="new badge white black-text"><?php echo  $hackernews['votes']; ?></span>
+                    <span class="badge white black-text">Votes: <?php echo  $hackernews['votes']; ?></span>
                         <p class=""><?php echo  $hackernews['title']; ?></p>
                     </div>
                 </div>
